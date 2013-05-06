@@ -4,7 +4,7 @@
 
 Win7:
 
-    %appdata%/Sublime Text 2
+    %appdata%/Sublime Text 2/Packages/User
 
 Mac:
 
