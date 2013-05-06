@@ -1,6 +1,7 @@
 {
-  "installed_packages":
+	"installed_packages":
 	[
+		"Emmet",
 		"FTPSync",
 		"Http Requester",
 		"JsFormat",
