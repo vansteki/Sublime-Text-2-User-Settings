@@ -4,11 +4,11 @@
 
 Win7:
 
-    cd %appdata%/Sublime Text 2/Packages/
+    cd %appdata%/Sublime Text 2/Packages
 
 Mac:
 
-    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
 
 ## Install
 
