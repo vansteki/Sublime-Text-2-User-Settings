@@ -3,10 +3,10 @@
 	[
 		"Emmet",
 		"FTPSync",
-		"HTMLBeautify",
 		"Http Requester",
 		"JsFormat",
 		"Package Control",
-		"SFTP"
+		"SFTP",
+		"Sublime-HTMLPrettify"
 	]
 }
